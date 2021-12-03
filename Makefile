@@ -5,7 +5,7 @@
 #testing
 # We'll first define some variables.  You can define any variables you
 # like, but there are some variables that have conventional meanings.
-#
+#comment2
 # CXX is conventionally used for the C++ compiler you want to use.  
 # We'll use clang++ in Comp 15, because it tends to have better error
 # messages than the alternative (g++).  CPP wasn't used for C++, because
