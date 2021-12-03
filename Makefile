@@ -2,7 +2,7 @@
 # Makefile for partyPlaylist
 #
 
-#testing
+#testinghihihi
 # We'll first define some variables.  You can define any variables you
 # like, but there are some variables that have conventional meanings.
 #comment2
